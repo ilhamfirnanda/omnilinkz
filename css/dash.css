@@ -1,0 +1,39 @@
+.notif{
+    padding-top:50px; 
+    padding-bottom:50px;
+}
+.carddash{
+    margin: 35px 0 35px 0; 
+    width:100%; 
+    height:400px;
+    background-color: #ffffff;
+}
+.textdash
+{
+    padding:100px 0 100px 0; 
+    margin:0 auto ;
+    text-align:center;
+}
+.nav-tabs ~ hr{
+    margin-left: 25%;
+
+}
+hr {
+    height: .25rem;
+    width: 25%;
+    margin: 0;
+    background: tomato;
+    border: none;
+    transition: .3s ease-in-out;
+  }
+.margin{
+    margin-bottom:20px;  
+}
+.btn-biolinks{
+    float: right;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
+  
+  
